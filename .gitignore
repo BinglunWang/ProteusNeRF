@@ -1,0 +1,8 @@
+**/__pycache__/
+/Experiments
+/Dataset/nerf_llff_data
+/pre_trained_models/dino_vitbase8_pretrain.pth
+/editing_results
+/render_results
+/training_results
+/pre_trained_models/edited_imgs
